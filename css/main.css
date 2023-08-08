@@ -236,6 +236,10 @@
   }
   .fa-brands {
     font-size: 1.3125em;
+    background: #527158;
+    border-radius: 50%;
+    border: 5px solid #527158;
+    margin: 0 1em;
   }
   
   footer .copyright {
